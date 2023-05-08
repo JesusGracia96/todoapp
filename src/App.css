@@ -1,0 +1,21 @@
+.align-all-center {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.add-activity-form {
+    max-width: 35%;
+}
+
+.float-alert {
+    position: relative;
+    top: 10;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
